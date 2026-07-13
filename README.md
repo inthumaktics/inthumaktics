@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=70&lines=Hi!+I'm+Int.er+✨;Welcome+to+my+GitHub+Profile!;Tech+Enthusiast+%7C+Undergraduate" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=70&lines=Hi!+I'm+Int.er+✨;Welcome+to+my+GitHub+Profile!;Tech+Enthusiast+%7C+Undergraduate" alt="Typing Effect" />
 </p>
 
 # 💫 About Me:
@@ -18,23 +18,21 @@ Hi! 👋 I’m Int.er ✨<br><br>🌱 A tech enthusiast who loves learning, expl
 
 # 🏆 GitHub Trophies:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=inthumaktics&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inthumaktics&theme=darkhub&no-background=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inthumaktics&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inthumaktics&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inthumaktics&theme=dark&show_icons=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inthumaktics&theme=dark&layout=compact" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inthumaktics&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inthumaktics&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=inthumaktics&icon=0&color=4" alt="Visitor Count" />
-  </a>
+  <img src="https://profile-counter.glitch.me/inthumaktics/count.svg" alt="Visitor Count" />
 </p>
